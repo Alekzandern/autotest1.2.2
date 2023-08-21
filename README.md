@@ -1,2 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/p5qsqd47490td5h4?svg=true)](https://ci.appveyor.com/project/Alekzandern/autotest1-2-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/oc6hbavsbp1m6j8s/branch/RUR?svg=true)](https://ci.appveyor.com/project/Alekzandern/autotest1-2-2/branch/RUR)
+
 
